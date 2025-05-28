@@ -1,0 +1,82 @@
+- exercise_suggestion: 'Convert to active voice: ''Die Diagnose wurde vom Arzt nach
+    sorgfältiger Untersuchung gestellt.
+
+    '' (Focus on term: Diagnose)'
+  grammar: Passiv
+  matched_pattern: wurde vom Arzt nach sorgfältiger Untersuchung gestellt
+  medical_terms:
+  - Diagnose
+  - Untersuchung
+  - Arzt
+  sentence: 'Die Diagnose wurde vom Arzt nach sorgfältiger Untersuchung gestellt.
+
+    '
+- exercise_suggestion: 'Convert to indicative mood: ''Es sei darauf hingewiesen, dass
+    die Therapie erfolgreich verlaufen ist.
+
+    '' (Focus on term: Therapie)'
+  grammar: Konjunktiv_I
+  matched_pattern: sei
+  medical_terms:
+  - Therapie
+  sentence: 'Es sei darauf hingewiesen, dass die Therapie erfolgreich verlaufen ist.
+
+    '
+- exercise_suggestion: 'Convert to active voice: ''Die Krankenpflege wurde professionell
+    durchgeführt.
+
+    '' (Focus on term: Pflege)'
+  grammar: Passiv
+  matched_pattern: wurde professionell durchgeführt
+  medical_terms:
+  - Pflege
+  sentence: 'Die Krankenpflege wurde professionell durchgeführt.
+
+    '
+- exercise_suggestion: 'Split into two simple sentences: ''Das Medikament, welches
+    der Patient erhielt, wirkte schnell.
+
+    '' (Focus on term: Patient)'
+  grammar: Relativsatz
+  matched_pattern: welches der Patient erhielt
+  medical_terms:
+  - Patient
+  - Medikament
+  sentence: 'Das Medikament, welches der Patient erhielt, wirkte schnell.
+
+    '
+- exercise_suggestion: 'Convert to indicative mood: ''Die Operation sei ohne Komplikationen
+    durchgeführt worden.
+
+    '' (Focus on term: Operation)'
+  grammar: Konjunktiv_I
+  matched_pattern: sei
+  medical_terms:
+  - Operation
+  sentence: 'Die Operation sei ohne Komplikationen durchgeführt worden.
+
+    '
+- exercise_suggestion: 'Convert to indicative mood: ''Der behandelnde Arzt habe die
+    Therapie angepasst.
+
+    '' (Focus on term: Therapie)'
+  grammar: Konjunktiv_I
+  matched_pattern: habe
+  medical_terms:
+  - Therapie
+  - Arzt
+  sentence: 'Der behandelnde Arzt habe die Therapie angepasst.
+
+    '
+- exercise_suggestion: 'Convert to active voice: ''Es wurde eine neue Infektion festgestellt,
+    die sofort behandelt werden musste.
+
+    '' (Focus on term: Infektion)'
+  grammar: Passiv
+  matched_pattern: wurde eine neue Infektion festgestellt
+  medical_terms:
+  - Infektion
+  sentence: 'Es wurde eine neue Infektion festgestellt, die sofort behandelt werden
+    musste.
+
+    '

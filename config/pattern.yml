@@ -1,0 +1,29 @@
+medical_terms:
+  - Infektion
+  - Pflege
+  - Anamnese
+  - Diagnose
+  - Therapie
+  - Symptom
+  - Behandlung
+  - Patient
+  - Krankheit
+  - Medikament
+  - Untersuchung
+  - Operation
+  - Arzt
+  - Krankenhaus
+
+grammar_patterns:
+  Passiv:
+    - {TAG: "VAFIN"}
+    - {OP: "*", IS_PUNCT: false}
+    - {TAG: "VVPP"}
+  
+  Konjunktiv_I:
+    - {TAG: "VAFIN", MORPH: {REGEX: ".*Mood=Sub.*"}}
+  
+  Relativsatz:
+    - {TAG: "PRELS"}
+    - {OP: "*", IS_PUNCT: false}
+    - {TAG: "VVFIN", DEP: "rc"}
