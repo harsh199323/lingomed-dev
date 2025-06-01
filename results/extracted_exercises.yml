@@ -1,0 +1,991 @@
+- exercise_suggestion: 'Split into two simple sentences: ''Erst im Laufe der Zeit
+    erkannte man, dass indianische „Medizin“, die jedoch auch die auf Heilkräutern
+    und physikalischen Therapieverfahren beruhende Medizin im engeren Sinne einschließt,
+    weit über die Heilkunde hinausgeht (siehe Medizinbeutel oder Medizinrad).'' (Focus
+    on term: Therapie)'
+  grammar: Relativsatz
+  matched_pattern: die jedoch auch die auf Heilkräutern und physikalischen Therapieverfahren
+    beruhende Medizin im engeren Sinne einschließt
+  medical_terms:
+  - Therapie
+  sentence: Erst im Laufe der Zeit erkannte man, dass indianische „Medizin“, die jedoch
+    auch die auf Heilkräutern und physikalischen Therapieverfahren beruhende Medizin
+    im engeren Sinne einschließt, weit über die Heilkunde hinausgeht (siehe Medizinbeutel
+    oder Medizinrad).
+- exercise_suggestion: 'Split into two simple sentences: ''Dabei ist die persönliche
+    Patient-Arzt-Beziehung wesentlich, die immer dann entsteht, wenn jemand mit einem
+    Gesundheitsproblem bei einem Arzt Hilfe sucht.'' (Focus on term: Patient)'
+  grammar: Relativsatz
+  matched_pattern: die immer dann entsteht
+  medical_terms:
+  - Patient
+  - Arzt
+  sentence: Dabei ist die persönliche Patient-Arzt-Beziehung wesentlich, die immer
+    dann entsteht, wenn jemand mit einem Gesundheitsproblem bei einem Arzt Hilfe sucht.
+- exercise_suggestion: 'Convert to active voice: ''Das Expertenwissen und die Fachautorität
+    der einheitlich ausgebildeten Ärzte hat sie in eine dominante Rolle erhoben, die
+    Barbiere, Steinschneider, aber auch akademische Mediziner früherer Zeit mit ihren
+    oft erfolglosen Krankheitstheorien nicht hatten.'' (Focus on term: Krankheit)'
+  grammar: Passiv
+  matched_pattern: hat sie in eine dominante Rolle erhoben
+  medical_terms:
+  - Krankheit
+  sentence: Das Expertenwissen und die Fachautorität der einheitlich ausgebildeten
+    Ärzte hat sie in eine dominante Rolle erhoben, die Barbiere, Steinschneider, aber
+    auch akademische Mediziner früherer Zeit mit ihren oft erfolglosen Krankheitstheorien
+    nicht hatten.
+- exercise_suggestion: 'Convert to active voice: ''Es wird nunmehr eine deliberative
+    Leistung vom Therapeuten erwartet, dessen Fachwissen die freie Entscheidungsgewalt
+    des Patienten stützt, nicht ersetzt.'' (Focus on term: Patient)'
+  grammar: Passiv
+  matched_pattern: wird nunmehr eine deliberative Leistung vom Therapeuten erwartet
+  medical_terms:
+  - Patient
+  sentence: Es wird nunmehr eine deliberative Leistung vom Therapeuten erwartet, dessen
+    Fachwissen die freie Entscheidungsgewalt des Patienten stützt, nicht ersetzt.
+- exercise_suggestion: 'Split into two simple sentences: ''Auf Betreiben liberaler
+    Kreise, zu denen auch Rudolph Virchow gehörte, erlaubte die erste Gewerbeordnung
+    des deutschen Reiches (1871) die Therapiefreiheit auch für nichtapprobierte Behandler,
+    die mit dem bis heute gültigen Heilpraktikergesetz (1939) erhalten blieb.'' (Focus
+    on term: Therapie)'
+  grammar: Relativsatz
+  matched_pattern: denen auch Rudolph Virchow gehörte
+  medical_terms:
+  - Therapie
+  sentence: Auf Betreiben liberaler Kreise, zu denen auch Rudolph Virchow gehörte,
+    erlaubte die erste Gewerbeordnung des deutschen Reiches (1871) die Therapiefreiheit
+    auch für nichtapprobierte Behandler, die mit dem bis heute gültigen Heilpraktikergesetz
+    (1939) erhalten blieb.
+- exercise_suggestion: 'Convert to active voice: ''Nach der Wiedervereinigung wurden
+    auch die in der DDR üblichen Ambulatorien aufgelöst oder in Arztpraxen umgewandelt.''
+    (Focus on term: Arzt)'
+  grammar: Passiv
+  matched_pattern: wurden auch die in der DDR üblichen Ambulatorien aufgelöst
+  medical_terms:
+  - Arzt
+  sentence: Nach der Wiedervereinigung wurden auch die in der DDR üblichen Ambulatorien
+    aufgelöst oder in Arztpraxen umgewandelt.
+- exercise_suggestion: 'Convert to active voice: ''Insbesondere die Krankenpflege
+    hat sich von der rein karitativen Hilfestellung mittlerweile zu einer akademischen
+    Wissenschaft und selbstständigen Stütze der Krankenversorgung entwickelt.'' (Focus
+    on term: Pflege)'
+  grammar: Passiv
+  matched_pattern: hat sich von der rein karitativen Hilfestellung mittlerweile zu
+    einer akademischen Wissenschaft und selbstständigen Stütze der Krankenversorgung
+    entwickelt
+  medical_terms:
+  - Pflege
+  sentence: Insbesondere die Krankenpflege hat sich von der rein karitativen Hilfestellung
+    mittlerweile zu einer akademischen Wissenschaft und selbstständigen Stütze der
+    Krankenversorgung entwickelt.
+- exercise_suggestion: 'Convert to active voice: ''Viele komplementäre Methoden (Diätetik,
+    Ordnungstherapie, Naturheilkunde) sind von weiten Teilen der praktizierenden Ärzteschaft
+    anerkannt;'' (Focus on term: Therapie)'
+  grammar: Passiv
+  matched_pattern: sind von weiten Teilen der praktizierenden Ärzteschaft anerkannt
+  medical_terms:
+  - Therapie
+  sentence: Viele komplementäre Methoden (Diätetik, Ordnungstherapie, Naturheilkunde)
+    sind von weiten Teilen der praktizierenden Ärzteschaft anerkannt;
+- exercise_suggestion: 'Convert to active voice: ''Für Edzard Ernst werden Prinzipien
+    der evidenzbasierten Medizin untergraben, was das Patientenwohl gefährdet und
+    zu einer Verschlechterung der Patientenversorgung führt.'' (Focus on term: Patient)'
+  grammar: Passiv
+  matched_pattern: werden Prinzipien der evidenzbasierten Medizin untergraben
+  medical_terms:
+  - Patient
+  sentence: Für Edzard Ernst werden Prinzipien der evidenzbasierten Medizin untergraben,
+    was das Patientenwohl gefährdet und zu einer Verschlechterung der Patientenversorgung
+    führt.
+- exercise_suggestion: 'Convert to active voice: ''Auch Yoga wird zur Heilbehandlung
+    angewendet.'' (Focus on term: Behandlung)'
+  grammar: Passiv
+  matched_pattern: wird zur Heilbehandlung angewendet
+  medical_terms:
+  - Behandlung
+  sentence: Auch Yoga wird zur Heilbehandlung angewendet.
+- exercise_suggestion: 'Convert to active voice: ''Die Krankheitstheorien waren noch
+    nicht wie heute gefestigt;'' (Focus on term: Krankheit)'
+  grammar: Passiv
+  matched_pattern: waren noch nicht wie heute gefestigt
+  medical_terms:
+  - Krankheit
+  sentence: Die Krankheitstheorien waren noch nicht wie heute gefestigt;
+- exercise_suggestion: 'Convert to active voice: ''Der englische Arzt Michael Balint
+    hat eine an der Psychoanalyse orientierte Methode entwickelt, die in Balint-Gruppen
+    praktiziert wird und dem Arzt helfen kann, die Arzt-Patient-Beziehung und ihre
+    Auswirkungen auf den Erfolg der Behandlung besser zu verstehen.'' (Focus on term:
+    Behandlung)'
+  grammar: Passiv
+  matched_pattern: hat eine an der Psychoanalyse orientierte Methode entwickelt
+  medical_terms:
+  - Behandlung
+  - Patient
+  - Arzt
+  sentence: Der englische Arzt Michael Balint hat eine an der Psychoanalyse orientierte
+    Methode entwickelt, die in Balint-Gruppen praktiziert wird und dem Arzt helfen
+    kann, die Arzt-Patient-Beziehung und ihre Auswirkungen auf den Erfolg der Behandlung
+    besser zu verstehen.
+- exercise_suggestion: 'Convert to active voice: ''Rechtlich wird das Verhältnis zwischen
+    Patient und Arzt im Auftragsrecht und im Medizinrecht im Allgemeinen und im Arzthaftungsrecht
+    im Besonderen geregelt.'' (Focus on term: Patient)'
+  grammar: Passiv
+  matched_pattern: wird das Verhältnis zwischen Patient und Arzt im Auftragsrecht
+    und im Medizinrecht im Allgemeinen und im Arzthaftungsrecht im Besonderen geregelt
+  medical_terms:
+  - Patient
+  - Arzt
+  sentence: Rechtlich wird das Verhältnis zwischen Patient und Arzt im Auftragsrecht
+    und im Medizinrecht im Allgemeinen und im Arzthaftungsrecht im Besonderen geregelt.
+- exercise_suggestion: 'Convert to active voice: ''Untersuchungen in Deutschland und
+    Österreich haben ergeben, dass beim Arztbesuch der einleitende Bericht des Patienten
+    schon nach durchschnittlich 15 Sekunden durch Fragen des Arztes unterbrochen wird
+    oder dieser in 50 % der Fälle – oft abgewendet – gleichzeitig kleine Nebentätigkeiten
+    (Karteikarte lesen, Computer bedienen etc.) ausführt.'' (Focus on term: Patient)'
+  grammar: Passiv
+  matched_pattern: haben ergeben
+  medical_terms:
+  - Patient
+  - Untersuchung
+  - Arzt
+  sentence: Untersuchungen in Deutschland und Österreich haben ergeben, dass beim
+    Arztbesuch der einleitende Bericht des Patienten schon nach durchschnittlich 15
+    Sekunden durch Fragen des Arztes unterbrochen wird oder dieser in 50 % der Fälle
+    – oft abgewendet – gleichzeitig kleine Nebentätigkeiten (Karteikarte lesen, Computer
+    bedienen etc.) ausführt.
+- exercise_suggestion: 'Convert to active voice: ''In einem Wiener Feldversuch wurde
+    getestet, ob der Arzt zunächst eine Minute zuhören kann.'' (Focus on term: Arzt)'
+  grammar: Passiv
+  matched_pattern: wurde getestet
+  medical_terms:
+  - Arzt
+  sentence: In einem Wiener Feldversuch wurde getestet, ob der Arzt zunächst eine
+    Minute zuhören kann.
+- exercise_suggestion: 'Convert to active voice: ''Wird die anfängliche Auskunftsbereitschaft
+    des Patienten zu früh unterbrochen, könne nur schwer Vertrauen geschaffen werden
+    und keine sachgerechte Anamnese entstehen – mit entsprechend negativen Folgen
+    für die Befindlichkeit, die Arzt-Patient-Beziehung und den Behandlungsverlauf.''
+    (Focus on term: Anamnese)'
+  grammar: Passiv
+  matched_pattern: Wird die anfängliche Auskunftsbereitschaft des Patienten zu früh
+    unterbrochen
+  medical_terms:
+  - Anamnese
+  - Behandlung
+  - Patient
+  - Arzt
+  sentence: Wird die anfängliche Auskunftsbereitschaft des Patienten zu früh unterbrochen,
+    könne nur schwer Vertrauen geschaffen werden und keine sachgerechte Anamnese entstehen
+    – mit entsprechend negativen Folgen für die Befindlichkeit, die Arzt-Patient-Beziehung
+    und den Behandlungsverlauf.
+- exercise_suggestion: 'Convert to active voice: ''Für die ärztlicherseits oft beklagte
+    unzureichende Therapietreue der Patienten (weniger als 50 %) wird in Studien vor
+    allem die mangelhafte Kommunikation in einer unverständlichen Medizinersprache
+    und die daraus resultierende geringe Überzeugungskraft verantwortlich gemacht.''
+    (Focus on term: Therapie)'
+  grammar: Passiv
+  matched_pattern: wird in Studien vor allem die mangelhafte Kommunikation in einer
+    unverständlichen Medizinersprache und die daraus resultierende geringe Überzeugungskraft
+    verantwortlich gemacht
+  medical_terms:
+  - Therapie
+  - Patient
+  sentence: Für die ärztlicherseits oft beklagte unzureichende Therapietreue der Patienten
+    (weniger als 50 %) wird in Studien vor allem die mangelhafte Kommunikation in
+    einer unverständlichen Medizinersprache und die daraus resultierende geringe Überzeugungskraft
+    verantwortlich gemacht.
+- exercise_suggestion: 'Split into two simple sentences: ''Zudem ist die Arzt-Patienten-Beziehung
+    nach R.M. Epstein noch bei einem erheblichen Teil der Ärzte (43 %) durch ein überholtes
+    paternalistisches Denken gekennzeichnet, das auf ein blindes Arztvertrauen setzte,
+    während eine bloß autoritätsgetragene Verordnung bei den heute in der Regel internetinformierten
+    Patienten nicht mehr ausreicht.'' (Focus on term: Patient)'
+  grammar: Relativsatz
+  matched_pattern: das auf ein blindes Arztvertrauen setzte
+  medical_terms:
+  - Patient
+  - Arzt
+  sentence: Zudem ist die Arzt-Patienten-Beziehung nach R.M. Epstein noch bei einem
+    erheblichen Teil der Ärzte (43 %) durch ein überholtes paternalistisches Denken
+    gekennzeichnet, das auf ein blindes Arztvertrauen setzte, während eine bloß autoritätsgetragene
+    Verordnung bei den heute in der Regel internetinformierten Patienten nicht mehr
+    ausreicht.
+- exercise_suggestion: 'Convert to active voice: ''Die zeitgemäße Medizin ist auf
+    den mündigen Patienten als Partner seiner Gesundung und eine entsprechende symmetrische
+    Beziehung ausgerichtet, die an der Autonomie des Patienten orientiert ist.'' (Focus
+    on term: Patient)'
+  grammar: Passiv
+  matched_pattern: ist auf den mündigen Patienten als Partner seiner Gesundung und
+    eine entsprechende symmetrische Beziehung ausgerichtet
+  medical_terms:
+  - Patient
+  sentence: Die zeitgemäße Medizin ist auf den mündigen Patienten als Partner seiner
+    Gesundung und eine entsprechende symmetrische Beziehung ausgerichtet, die an der
+    Autonomie des Patienten orientiert ist.
+- exercise_suggestion: 'Convert to active voice: ''Es wird allerdings aus Medizinerkreisen
+    eingewendet, dass Ärzte, wie auch Therapeuten und Krankenpfleger, emotional nicht
+    zu sehr betroffen sein dürfen, um die fachliche Behandlungsqualität nicht zu gefährden
+    und einer persönlichen Überforderung vorzubeugen.'' (Focus on term: Pflege)'
+  grammar: Passiv
+  matched_pattern: wird allerdings aus Medizinerkreisen eingewendet
+  medical_terms:
+  - Pflege
+  - Behandlung
+  sentence: Es wird allerdings aus Medizinerkreisen eingewendet, dass Ärzte, wie auch
+    Therapeuten und Krankenpfleger, emotional nicht zu sehr betroffen sein dürfen,
+    um die fachliche Behandlungsqualität nicht zu gefährden und einer persönlichen
+    Überforderung vorzubeugen.
+- exercise_suggestion: 'Convert to indicative mood: ''Die wichtigste Maßnahme wäre,
+    die pro Patient zur Verfügung stehende Zeit, die bisher durchschnittlich unter
+    10 Minuten liegt, zu verlängern.'' (Focus on term: Patient)'
+  grammar: Konjunktiv_I
+  matched_pattern: wäre
+  medical_terms:
+  - Patient
+  sentence: Die wichtigste Maßnahme wäre, die pro Patient zur Verfügung stehende Zeit,
+    die bisher durchschnittlich unter 10 Minuten liegt, zu verlängern.
+- exercise_suggestion: 'Convert to active voice: ''Arztphobie
+
+    Langanhaltende Angst vor Ärzten wird Arztphobie genannt und führt zur Vermeidung
+    oder zum Hinauszögern des Arztbesuches.'' (Focus on term: Arzt)'
+  grammar: Passiv
+  matched_pattern: wird Arztphobie genannt
+  medical_terms:
+  - Arzt
+  sentence: 'Arztphobie
+
+    Langanhaltende Angst vor Ärzten wird Arztphobie genannt und führt zur Vermeidung
+    oder zum Hinauszögern des Arztbesuches.'
+- exercise_suggestion: 'Convert to active voice: ''Große oder nichtoperable Basaliome
+    bei älteren Menschen werden erfolgreich mit Röntgenweichstrahlen therapiert.''
+    (Focus on term: Therapie)'
+  grammar: Passiv
+  matched_pattern: werden erfolgreich mit Röntgenweichstrahlen therapiert
+  medical_terms:
+  - Therapie
+  sentence: Große oder nichtoperable Basaliome bei älteren Menschen werden erfolgreich
+    mit Röntgenweichstrahlen therapiert.
+- exercise_suggestion: 'Convert to active voice: ''Seit Juli 2004 ist eine neue Behandlungsmethode
+    für das oberflächliche Basaliom zugelassen:'' (Focus on term: Behandlung)'
+  grammar: Passiv
+  matched_pattern: ist eine neue Behandlungsmethode für das oberflächliche Basaliom
+    zugelassen
+  medical_terms:
+  - Behandlung
+  sentence: 'Seit Juli 2004 ist eine neue Behandlungsmethode für das oberflächliche
+    Basaliom zugelassen:'
+- exercise_suggestion: 'Convert to active voice: ''Sehr selten kommt es hingegen auch
+    zu einem grippeähnlichen Gefühl, in diesem Fall wird empfohlen, die Therapie zu
+    pausieren.'' (Focus on term: Therapie)'
+  grammar: Passiv
+  matched_pattern: wird empfohlen
+  medical_terms:
+  - Therapie
+  sentence: Sehr selten kommt es hingegen auch zu einem grippeähnlichen Gefühl, in
+    diesem Fall wird empfohlen, die Therapie zu pausieren.
+- exercise_suggestion: 'Convert to active voice: ''Der Gemeinsame Bundesausschuss
+    hat Vismodegib 2016 im Rahmen der frühen Nutzenbewertung einen geringen Zusatznutzen
+    für die Behandlung des lokal fortgeschrittenen Basalioms zugesprochen.'' (Focus
+    on term: Behandlung)'
+  grammar: Passiv
+  matched_pattern: hat Vismodegib 2016 im Rahmen der frühen Nutzenbewertung einen
+    geringen Zusatznutzen für die Behandlung des lokal fortgeschrittenen Basalioms
+    zugesprochen
+  medical_terms:
+  - Behandlung
+  sentence: Der Gemeinsame Bundesausschuss hat Vismodegib 2016 im Rahmen der frühen
+    Nutzenbewertung einen geringen Zusatznutzen für die Behandlung des lokal fortgeschrittenen
+    Basalioms zugesprochen.
+- exercise_suggestion: 'Split into two simple sentences: ''Der Wirkstoff Cemiplimab
+    (Handelsname Libtayo), ein monoklonaler Antikörper, der zu den Checkpoint-Inhibitoren
+    zählt, wurde im Juni 2021 auch für die Behandlung von örtlich fortgeschrittenen
+    oder bereits metastasierten Basalzellkarzinomen zugelassen.'' (Focus on term:
+    Behandlung)'
+  grammar: Relativsatz
+  matched_pattern: der zu den Checkpoint-Inhibitoren zählt
+  medical_terms:
+  - Behandlung
+  sentence: Der Wirkstoff Cemiplimab (Handelsname Libtayo), ein monoklonaler Antikörper,
+    der zu den Checkpoint-Inhibitoren zählt, wurde im Juni 2021 auch für die Behandlung
+    von örtlich fortgeschrittenen oder bereits metastasierten Basalzellkarzinomen
+    zugelassen.
+- exercise_suggestion: 'Convert to active voice: ''Nach einer derartigen Sensibilisierung
+    werden die Zellen durch eine anschließende Behandlung mit speziellem Rotlicht
+    selektiv zerstört, da Protoporphyrin IX unter Lichteinstrahlung Sauerstoffradikale
+    bildet, welche zum Absterben dieser Zellen führen.'' (Focus on term: Behandlung)'
+  grammar: Passiv
+  matched_pattern: werden die Zellen durch eine anschließende Behandlung mit speziellem
+    Rotlicht selektiv zerstört
+  medical_terms:
+  - Behandlung
+  sentence: Nach einer derartigen Sensibilisierung werden die Zellen durch eine anschließende
+    Behandlung mit speziellem Rotlicht selektiv zerstört, da Protoporphyrin IX unter
+    Lichteinstrahlung Sauerstoffradikale bildet, welche zum Absterben dieser Zellen
+    führen.
+- exercise_suggestion: 'Split into two simple sentences: ''In der Qualitätssicherung
+    ist ein UE ein schädliches Geschehen, das eher auf der Behandlung als auf der
+    Erkrankung beruht.'' (Focus on term: Behandlung)'
+  grammar: Relativsatz
+  matched_pattern: das eher auf der Behandlung als auf der Erkrankung beruht
+  medical_terms:
+  - Behandlung
+  sentence: In der Qualitätssicherung ist ein UE ein schädliches Geschehen, das eher
+    auf der Behandlung als auf der Erkrankung beruht.
+- exercise_suggestion: 'Convert to active voice: ''UEs werden nur für Probanden oder
+    Patienten erfasst.'' (Focus on term: Patient)'
+  grammar: Passiv
+  matched_pattern: werden nur für Probanden oder Patienten erfasst
+  medical_terms:
+  - Patient
+  sentence: UEs werden nur für Probanden oder Patienten erfasst.
+- exercise_suggestion: 'Split into two simple sentences: ''Karl Jaspers sagte: „Daß
+    in dem Worte ‚Krankheit‘ sich Wertbegriffe und Seinsbegriffe immer miteinander
+    verschlingen, führt zu Täuschungen, die fast unvermeidlich erscheinen“.'' (Focus
+    on term: Krankheit)'
+  grammar: Relativsatz
+  matched_pattern: die fast unvermeidlich erscheinen
+  medical_terms:
+  - Krankheit
+  sentence: 'Karl Jaspers sagte: „Daß in dem Worte ‚Krankheit‘ sich Wertbegriffe und
+    Seinsbegriffe immer miteinander verschlingen, führt zu Täuschungen, die fast unvermeidlich
+    erscheinen“.'
+- exercise_suggestion: 'Convert to active voice: ''Das Wort „Krankheit“ ist abgeleitet
+    vom mittelhochdeutsch krancheit oder krankeit.'' (Focus on term: Krankheit)'
+  grammar: Passiv
+  matched_pattern: ist abgeleitet
+  medical_terms:
+  - Krankheit
+  sentence: Das Wort „Krankheit“ ist abgeleitet vom mittelhochdeutsch krancheit oder
+    krankeit.
+- exercise_suggestion: 'Convert to active voice: ''So hat sich die Bezeichnung Befindlichkeitsstörung
+    für Einschränkungen des leiblichen oder seelischen Wohlbefindens ohne objektivierbaren
+    medizinischen Krankheitswert eingebürgert.'' (Focus on term: Krankheit)'
+  grammar: Passiv
+  matched_pattern: hat sich die Bezeichnung Befindlichkeitsstörung für Einschränkungen
+    des leiblichen oder seelischen Wohlbefindens ohne objektivierbaren medizinischen
+    Krankheitswert eingebürgert
+  medical_terms:
+  - Krankheit
+  sentence: So hat sich die Bezeichnung Befindlichkeitsstörung für Einschränkungen
+    des leiblichen oder seelischen Wohlbefindens ohne objektivierbaren medizinischen
+    Krankheitswert eingebürgert.
+- exercise_suggestion: 'Convert to active voice: ''Bei der Grippe zum Beispiel sind
+    die Symptome und der Leidensdruck des Patienten deutlich, dem Krankheitsprozess
+    an sich, der viralen Infektion, wird in der Praxis wenig Beachtung geschenkt.''
+    (Focus on term: Infektion)'
+  grammar: Passiv
+  matched_pattern: wird in der Praxis wenig Beachtung geschenkt
+  medical_terms:
+  - Infektion
+  - Symptom
+  - Patient
+  - Krankheit
+  sentence: Bei der Grippe zum Beispiel sind die Symptome und der Leidensdruck des
+    Patienten deutlich, dem Krankheitsprozess an sich, der viralen Infektion, wird
+    in der Praxis wenig Beachtung geschenkt.
+- exercise_suggestion: 'Convert to active voice: ''Damit werden Befunde erhoben, welche
+    der Erstellung einer Diagnose dienen können.'' (Focus on term: Diagnose)'
+  grammar: Passiv
+  matched_pattern: werden Befunde erhoben
+  medical_terms:
+  - Diagnose
+  sentence: Damit werden Befunde erhoben, welche der Erstellung einer Diagnose dienen
+    können.
+- exercise_suggestion: 'Convert to active voice: ''Hat ein Mensch das Gefühl, „krank“
+    zu sein, oder ist bei jemandem eine Krankheit bereits erkannt worden, spricht
+    man in der Medizin von einem Patienten.'' (Focus on term: Patient)'
+  grammar: Passiv
+  matched_pattern: ist bei jemandem eine Krankheit bereits erkannt
+  medical_terms:
+  - Patient
+  - Krankheit
+  sentence: Hat ein Mensch das Gefühl, „krank“ zu sein, oder ist bei jemandem eine
+    Krankheit bereits erkannt worden, spricht man in der Medizin von einem Patienten.
+- exercise_suggestion: 'Convert to active voice: ''Der Begriff „Krankheit“ selbst
+    wird inhaltlich heftig diskutiert, insbesondere im sozialversicherungsrechtlichen
+    Bereich.'' (Focus on term: Krankheit)'
+  grammar: Passiv
+  matched_pattern: wird inhaltlich heftig diskutiert
+  medical_terms:
+  - Krankheit
+  sentence: Der Begriff „Krankheit“ selbst wird inhaltlich heftig diskutiert, insbesondere
+    im sozialversicherungsrechtlichen Bereich.
+- exercise_suggestion: 'Split into two simple sentences: ''(vgl. § 120 Abs. 1 Ziffer
+    1 ASVG, wonach Krankheit „ein regelwidriger Körper- oder Geisteszustand ist, der
+    die Krankenbehandlung notwendig macht“.)'' (Focus on term: Behandlung)'
+  grammar: Relativsatz
+  matched_pattern: der die Krankenbehandlung notwendig macht
+  medical_terms:
+  - Behandlung
+  - Krankheit
+  sentence: (vgl. § 120 Abs. 1 Ziffer 1 ASVG, wonach Krankheit „ein regelwidriger
+    Körper- oder Geisteszustand ist, der die Krankenbehandlung notwendig macht“.)
+- exercise_suggestion: 'Convert to active voice: ''Der Bundesgerichtshof (BGH) hat
+    am 21. März 1958 definiert: „Krankheit ist jede Störung der normalen Beschaffenheit
+    oder der normalen Tätigkeit des Körpers, die geheilt, d. h. beseitigt oder gelindert
+    werden kann.“'' (Focus on term: Krankheit)'
+  grammar: Passiv
+  matched_pattern: hat am 21. März 1958 definiert
+  medical_terms:
+  - Krankheit
+  sentence: 'Der Bundesgerichtshof (BGH) hat am 21. März 1958 definiert: „Krankheit
+    ist jede Störung der normalen Beschaffenheit oder der normalen Tätigkeit des Körpers,
+    die geheilt, d. h. beseitigt oder gelindert werden kann.“'
+- exercise_suggestion: 'Convert to active voice: ''Im alten Judentum wurde Krankheit
+    als seelische und körperliche Läuterung des Menschen angesehen.'' (Focus on term:
+    Krankheit)'
+  grammar: Passiv
+  matched_pattern: wurde Krankheit als seelische und körperliche Läuterung des Menschen
+    angesehen
+  medical_terms:
+  - Krankheit
+  sentence: Im alten Judentum wurde Krankheit als seelische und körperliche Läuterung
+    des Menschen angesehen.
+- exercise_suggestion: 'Convert to active voice: ''Mit Beginn der Neuzeit wurde Krankheit
+    zunehmend als Störung des Organismus begriffen.'' (Focus on term: Krankheit)'
+  grammar: Passiv
+  matched_pattern: wurde Krankheit zunehmend als Störung des Organismus begriffen
+  medical_terms:
+  - Krankheit
+  sentence: Mit Beginn der Neuzeit wurde Krankheit zunehmend als Störung des Organismus
+    begriffen.
+- exercise_suggestion: 'Convert to indicative mood: ''Krankheiten seien demnach neben
+    Störungen im Wärmehaushalt und Wasserhaushalt auch solche des Stickstoffhaushalts
+    oder Phosphorhaushalts.'' (Focus on term: Krankheit)'
+  grammar: Konjunktiv_I
+  matched_pattern: seien
+  medical_terms:
+  - Krankheit
+  sentence: Krankheiten seien demnach neben Störungen im Wärmehaushalt und Wasserhaushalt
+    auch solche des Stickstoffhaushalts oder Phosphorhaushalts.
+- exercise_suggestion: 'Convert to active voice: ''Verleugnung: Die Krankheit wird
+    verleugnet und damit auch ein guter Umgang damit verhindert.'' (Focus on term:
+    Krankheit)'
+  grammar: Passiv
+  matched_pattern: wird verleugnet
+  medical_terms:
+  - Krankheit
+  sentence: 'Verleugnung: Die Krankheit wird verleugnet und damit auch ein guter Umgang
+    damit verhindert.'
+- exercise_suggestion: 'Convert to active voice: ''Die Probleme der Krankheit werden
+    auf andere Ursachen geschoben und die Krankheit als Ursache verleugnet.'' (Focus
+    on term: Krankheit)'
+  grammar: Passiv
+  matched_pattern: werden auf andere Ursachen geschoben
+  medical_terms:
+  - Krankheit
+  sentence: Die Probleme der Krankheit werden auf andere Ursachen geschoben und die
+    Krankheit als Ursache verleugnet.
+- exercise_suggestion: 'Convert to active voice: ''Die Bezeichnungen der Krankheiten,
+    die Abgrenzung einzelner Krankheitsbilder (Entitäten) gegeneinander und die Systematik
+    der Krankheiten sind ständigem Wandel unterworfen (vgl. Liste historischer Krankheitsbezeichnungen).''
+    (Focus on term: Krankheit)'
+  grammar: Passiv
+  matched_pattern: sind ständigem Wandel unterworfen
+  medical_terms:
+  - Krankheit
+  sentence: Die Bezeichnungen der Krankheiten, die Abgrenzung einzelner Krankheitsbilder
+    (Entitäten) gegeneinander und die Systematik der Krankheiten sind ständigem Wandel
+    unterworfen (vgl. Liste historischer Krankheitsbezeichnungen).
+- exercise_suggestion: 'Convert to active voice: ''Eigenschaften, die statistisch
+    für sich alleine betrachtet die Rate des Auftretens bestimmter Krankheitsbilder
+    erhöhen, ohne ihrem Wesen nach für diese alleinig verantwortlich zu sein, werden
+    als sogenannte Risikofaktoren bezeichnet.'' (Focus on term: Krankheit)'
+  grammar: Passiv
+  matched_pattern: werden als sogenannte Risikofaktoren bezeichnet
+  medical_terms:
+  - Krankheit
+  sentence: Eigenschaften, die statistisch für sich alleine betrachtet die Rate des
+    Auftretens bestimmter Krankheitsbilder erhöhen, ohne ihrem Wesen nach für diese
+    alleinig verantwortlich zu sein, werden als sogenannte Risikofaktoren bezeichnet.
+- exercise_suggestion: 'Split into two simple sentences: ''Häufig verwendete Begriffe,
+    die den zeitlichen Verlauf beschreiben, sind:
+
+
+    akut – plötzlicher Beginn, z. B. grippaler Infekt
+
+    subakut – allmählicher Beginn, z. B. Hepatitis B
+
+    chronisch – längerer Verlauf, z. B. Multiple Sklerose
+
+    chronisch rezidivierend – immer wieder auftretend, z. B. „chronische“ Bronchitis
+
+    foudroyant bzw. fulminant – „blitzartig“ einsetzend und schwer verlaufend, z.
+    B. Sepsis
+
+
+    Krankheitsmodell'' (Focus on term: Krankheit)'
+  grammar: Relativsatz
+  matched_pattern: die den zeitlichen Verlauf beschreiben
+  medical_terms:
+  - Krankheit
+  sentence: 'Häufig verwendete Begriffe, die den zeitlichen Verlauf beschreiben, sind:
+
+
+    akut – plötzlicher Beginn, z. B. grippaler Infekt
+
+    subakut – allmählicher Beginn, z. B. Hepatitis B
+
+    chronisch – längerer Verlauf, z. B. Multiple Sklerose
+
+    chronisch rezidivierend – immer wieder auftretend, z. B. „chronische“ Bronchitis
+
+    foudroyant bzw. fulminant – „blitzartig“ einsetzend und schwer verlaufend, z.
+    B. Sepsis
+
+
+    Krankheitsmodell'
+- exercise_suggestion: 'Convert to active voice: ''Eine Diskussion um Krankheitsmodelle
+    ist aus der Frage entstanden, welches der objektive Unterschied zwischen normal
+    und anormal als krankhaft sei.'' (Focus on term: Krankheit)'
+  grammar: Passiv
+  matched_pattern: ist aus der Frage entstanden
+  medical_terms:
+  - Krankheit
+  sentence: Eine Diskussion um Krankheitsmodelle ist aus der Frage entstanden, welches
+    der objektive Unterschied zwischen normal und anormal als krankhaft sei.
+- exercise_suggestion: 'Convert to active voice: ''Es ist auf den vermeintlich Kranken
+    gerichtet und gibt die Auffassungen der nächsten Angehörigen und des sozialen
+    Umfeldes über Krankheit wieder.'' (Focus on term: Krankheit)'
+  grammar: Passiv
+  matched_pattern: ist auf den vermeintlich Kranken gerichtet
+  medical_terms:
+  - Krankheit
+  sentence: Es ist auf den vermeintlich Kranken gerichtet und gibt die Auffassungen
+    der nächsten Angehörigen und des sozialen Umfeldes über Krankheit wieder.
+- exercise_suggestion: 'Convert to indicative mood: ''Die Forderung nach einem einheitlichen
+    Behandlungsprinzip geht auf die Forderung von Ludolf von Krehl zurück, dass der
+    Arzt nicht verschiedene Krankheiten behandeln solle, sondern eher den Kranken
+    als Person im Auge zu halten habe.'' (Focus on term: Behandlung)'
+  grammar: Konjunktiv_I
+  matched_pattern: habe
+  medical_terms:
+  - Behandlung
+  - Krankheit
+  - Arzt
+  sentence: Die Forderung nach einem einheitlichen Behandlungsprinzip geht auf die
+    Forderung von Ludolf von Krehl zurück, dass der Arzt nicht verschiedene Krankheiten
+    behandeln solle, sondern eher den Kranken als Person im Auge zu halten habe.
+- exercise_suggestion: 'Convert to active voice: ''Im englischen Sprachraum ist zwar
+    die Verwendung von Morbus unüblich, die Krankheiten werden trotzdem häufig mit
+    dem Namen des Erstbeschreibers benannt.'' (Focus on term: Krankheit)'
+  grammar: Passiv
+  matched_pattern: werden trotzdem häufig mit dem Namen des Erstbeschreibers benannt
+  medical_terms:
+  - Krankheit
+  sentence: Im englischen Sprachraum ist zwar die Verwendung von Morbus unüblich,
+    die Krankheiten werden trotzdem häufig mit dem Namen des Erstbeschreibers benannt.
+- exercise_suggestion: 'Convert to active voice: ''In medizinischen Klassifizierungssystemen,
+    wie der Internationalen Klassifikation der Krankheiten (ICD), werden Diagnosen
+    schematisch in Gruppen eingeteilt und so grob abgebildet.'' (Focus on term: Diagnose)'
+  grammar: Passiv
+  matched_pattern: werden Diagnosen schematisch in Gruppen eingeteilt
+  medical_terms:
+  - Diagnose
+  - Krankheit
+  sentence: In medizinischen Klassifizierungssystemen, wie der Internationalen Klassifikation
+    der Krankheiten (ICD), werden Diagnosen schematisch in Gruppen eingeteilt und
+    so grob abgebildet.
+- exercise_suggestion: 'Convert to active voice: ''Im pflegerischen Bereich wird als
+    Pflegediagnose ein Zustand oder ein gesundheitliches Problem bezeichnet, das Pflegemaßnahmen
+    begründet oder beeinflusst.'' (Focus on term: Pflege)'
+  grammar: Passiv
+  matched_pattern: wird als Pflegediagnose ein Zustand oder ein gesundheitliches Problem
+    bezeichnet
+  medical_terms:
+  - Pflege
+  - Diagnose
+  sentence: Im pflegerischen Bereich wird als Pflegediagnose ein Zustand oder ein
+    gesundheitliches Problem bezeichnet, das Pflegemaßnahmen begründet oder beeinflusst.
+- exercise_suggestion: 'Convert to active voice: ''Der Weg zur Diagnose, die Diagnosefindung,
+    wird auch als Diagnostik bezeichnet und endet typischerweise mit der Benennung
+    des gefundenen Krankheitsbildes.'' (Focus on term: Diagnose)'
+  grammar: Passiv
+  matched_pattern: wird auch als Diagnostik bezeichnet
+  medical_terms:
+  - Diagnose
+  - Krankheit
+  sentence: Der Weg zur Diagnose, die Diagnosefindung, wird auch als Diagnostik bezeichnet
+    und endet typischerweise mit der Benennung des gefundenen Krankheitsbildes.
+- exercise_suggestion: 'Convert to active voice: ''Unter Differenzialdiagnostik wird
+    die Identifizierung und gegebenenfalls der Ausschluss von Erkrankungen mit ähnlicher
+    oder sogar identischer Symptomatik vor Beginn einer Behandlungsmaßnahme verstanden.''
+    (Focus on term: Symptom)'
+  grammar: Passiv
+  matched_pattern: wird die Identifizierung und gegebenenfalls der Ausschluss von
+    Erkrankungen mit ähnlicher oder sogar identischer Symptomatik vor Beginn einer
+    Behandlungsmaßnahme verstanden
+  medical_terms:
+  - Symptom
+  - Behandlung
+  sentence: Unter Differenzialdiagnostik wird die Identifizierung und gegebenenfalls
+    der Ausschluss von Erkrankungen mit ähnlicher oder sogar identischer Symptomatik
+    vor Beginn einer Behandlungsmaßnahme verstanden.
+- exercise_suggestion: 'Convert to active voice: ''Nicht in allen Fällen können jedoch
+    sichere Diagnosen herausgearbeitet werden, daher haben sich bestimmte traditionelle
+    Begriffe eingebürgert, die sich auf den Grad der Sicherheit einer Diagnose beziehen.''
+    (Focus on term: Diagnose)'
+  grammar: Passiv
+  matched_pattern: haben sich bestimmte traditionelle Begriffe eingebürgert
+  medical_terms:
+  - Diagnose
+  sentence: Nicht in allen Fällen können jedoch sichere Diagnosen herausgearbeitet
+    werden, daher haben sich bestimmte traditionelle Begriffe eingebürgert, die sich
+    auf den Grad der Sicherheit einer Diagnose beziehen.
+- exercise_suggestion: 'Split into two simple sentences: ''Die Ausschlussdiagnose
+    (englisch diagnosis by exclusion) ist eine Diagnose, die sich aus dem schrittweisen
+    Ausschluss aller anderen möglichen Erkrankungen mit denselben Symptomen ergibt,
+    bis nur noch die Ausschlussdiagnose übrig bleibt.'' (Focus on term: Diagnose)'
+  grammar: Relativsatz
+  matched_pattern: die sich aus dem schrittweisen Ausschluss aller anderen möglichen
+    Erkrankungen mit denselben Symptomen ergibt
+  medical_terms:
+  - Diagnose
+  - Symptom
+  sentence: Die Ausschlussdiagnose (englisch diagnosis by exclusion) ist eine Diagnose,
+    die sich aus dem schrittweisen Ausschluss aller anderen möglichen Erkrankungen
+    mit denselben Symptomen ergibt, bis nur noch die Ausschlussdiagnose übrig bleibt.
+- exercise_suggestion: 'Convert to active voice: ''Ebenso hat sich in der Notfallmedizin
+    der Begriff des akuten Koronarsyndroms eingebürgert, unter dem letztlich alle
+    Symptome einer Minderdurchblutung des Herzens zusammengefasst werden.'' (Focus
+    on term: Symptom)'
+  grammar: Passiv
+  matched_pattern: hat sich in der Notfallmedizin der Begriff des akuten Koronarsyndroms
+    eingebürgert
+  medical_terms:
+  - Symptom
+  sentence: Ebenso hat sich in der Notfallmedizin der Begriff des akuten Koronarsyndroms
+    eingebürgert, unter dem letztlich alle Symptome einer Minderdurchblutung des Herzens
+    zusammengefasst werden.
+- exercise_suggestion: 'Convert to active voice: ''DD) bezeichnet man die Gesamtheit
+    aller Diagnosen, die alternativ als Erklärung für die erhobenen Symptome (Krankheitszeichen)
+    oder medizinischen Befunde in Betracht zu ziehen sind oder in Betracht gezogen
+    worden sind.'' (Focus on term: Diagnose)'
+  grammar: Passiv
+  matched_pattern: sind oder in Betracht gezogen
+  medical_terms:
+  - Diagnose
+  - Symptom
+  - Krankheit
+  sentence: DD) bezeichnet man die Gesamtheit aller Diagnosen, die alternativ als
+    Erklärung für die erhobenen Symptome (Krankheitszeichen) oder medizinischen Befunde
+    in Betracht zu ziehen sind oder in Betracht gezogen worden sind.
+- exercise_suggestion: 'Convert to active voice: ''Eine falsch gestellte Diagnose
+    wird als Fehldiagnose bezeichnet.'' (Focus on term: Diagnose)'
+  grammar: Passiv
+  matched_pattern: wird als Fehldiagnose bezeichnet
+  medical_terms:
+  - Diagnose
+  sentence: Eine falsch gestellte Diagnose wird als Fehldiagnose bezeichnet.
+- exercise_suggestion: 'Convert to active voice: ''Häufig wird eine falsche Diagnose
+    den Ärzten angelastet.'' (Focus on term: Diagnose)'
+  grammar: Passiv
+  matched_pattern: wird eine falsche Diagnose den Ärzten angelastet
+  medical_terms:
+  - Diagnose
+  sentence: Häufig wird eine falsche Diagnose den Ärzten angelastet.
+- exercise_suggestion: 'Convert to active voice: ''2010 wurden durch die Gutachterstellen
+    der Ärzteschaft bei 2.199 Patienten falsche Diagnosen oder Behandlungen festgestellt,
+    in deren Folge 87 Patienten starben.'' (Focus on term: Diagnose)'
+  grammar: Passiv
+  matched_pattern: wurden durch die Gutachterstellen der Ärzteschaft bei 2.199 Patienten
+    falsche Diagnosen oder Behandlungen festgestellt
+  medical_terms:
+  - Diagnose
+  - Behandlung
+  - Patient
+  sentence: 2010 wurden durch die Gutachterstellen der Ärzteschaft bei 2.199 Patienten
+    falsche Diagnosen oder Behandlungen festgestellt, in deren Folge 87 Patienten
+    starben.
+- exercise_suggestion: 'Convert to active voice: ''Anhand der hinzugekommenen Informationen
+    wird dann im ersten Schritt die Arbeitsdiagnose bestätigt oder verworfen bzw.
+    verändert.'' (Focus on term: Diagnose)'
+  grammar: Passiv
+  matched_pattern: wird dann im ersten Schritt die Arbeitsdiagnose bestätigt
+  medical_terms:
+  - Diagnose
+  sentence: Anhand der hinzugekommenen Informationen wird dann im ersten Schritt die
+    Arbeitsdiagnose bestätigt oder verworfen bzw. verändert.
+- exercise_suggestion: 'Convert to active voice: ''Nicht alle Diagnosen werden zum
+    Beispiel von den gesetzlichen Krankenkassen in Deutschland bezahlt.'' (Focus on
+    term: Diagnose)'
+  grammar: Passiv
+  matched_pattern: werden zum Beispiel von den gesetzlichen Krankenkassen in Deutschland
+    bezahlt
+  medical_terms:
+  - Diagnose
+  sentence: Nicht alle Diagnosen werden zum Beispiel von den gesetzlichen Krankenkassen
+    in Deutschland bezahlt.
+- exercise_suggestion: 'Convert to active voice: ''Vor allem außerhalb von Krankenhäusern
+    und Arztpraxen werden oft Methoden eingesetzt, die nicht den wissenschaftlichen
+    Kriterien genügen, etwa in der Alternativmedizin und Naturheilkunde.'' (Focus
+    on term: Arzt)'
+  grammar: Passiv
+  matched_pattern: werden oft Methoden eingesetzt
+  medical_terms:
+  - Arzt
+  sentence: Vor allem außerhalb von Krankenhäusern und Arztpraxen werden oft Methoden
+    eingesetzt, die nicht den wissenschaftlichen Kriterien genügen, etwa in der Alternativmedizin
+    und Naturheilkunde.
+- exercise_suggestion: 'Convert to active voice: ''Beispiele
+
+    Zu den Allgemeinsymptomen werden unter anderem außerdem gerechnet:
+
+
+    Allgemeinbefinden
+
+    Appetitlosigkeit
+
+    Erschöpfung
+
+    Fieber
+
+    Gewichtsverlust
+
+    Gewichtszunahme
+
+    Lymphknotenvergrößerung
+
+    Müdigkeit
+
+    Nachtschweiß
+
+    Wetterfühligkeit
+
+    Zönästhesien
+
+
+    Weblinks
+
+    Med.'' (Focus on term: Symptom)'
+  grammar: Passiv
+  matched_pattern: werden unter anderem außerdem gerechnet
+  medical_terms:
+  - Symptom
+  sentence: 'Beispiele
+
+    Zu den Allgemeinsymptomen werden unter anderem außerdem gerechnet:
+
+
+    Allgemeinbefinden
+
+    Appetitlosigkeit
+
+    Erschöpfung
+
+    Fieber
+
+    Gewichtsverlust
+
+    Gewichtszunahme
+
+    Lymphknotenvergrößerung
+
+    Müdigkeit
+
+    Nachtschweiß
+
+    Wetterfühligkeit
+
+    Zönästhesien
+
+
+    Weblinks
+
+    Med.'
+- exercise_suggestion: 'Split into two simple sentences: ''Anwendungsrisiken
+
+    Risiken, die die Untersuchung mit sich bringt, sollten von der Schwangeren bzw.
+    von dem Elternpaar abgewogen werden, bevor sie einer Amniozentese zustimmen.''
+    (Focus on term: Untersuchung)'
+  grammar: Relativsatz
+  matched_pattern: die die Untersuchung mit sich bringt
+  medical_terms:
+  - Untersuchung
+  sentence: 'Anwendungsrisiken
+
+    Risiken, die die Untersuchung mit sich bringt, sollten von der Schwangeren bzw.
+    von dem Elternpaar abgewogen werden, bevor sie einer Amniozentese zustimmen.'
+- exercise_suggestion: 'Convert to active voice: ''Es kann während bzw. nach dem Eingriff
+    zu folgenden Ereignissen kommen:
+
+
+    Fruchtwasserverlust
+
+    Blutungen in der Gebärmutter
+
+    Verletzungen der Gebärmutter
+
+    Verletzungen des Mutterkuchens
+
+    Infektionen
+
+    Verletzungen des ungeborenen Kindes durch die Nadel (insbesondere, wenn sich das
+    Kind viel und/oder unerwartet bewegt)
+
+    gehäufteres Auftreten von Fehlbildungen (erhöhtes Klumpfußrisiko)
+
+    Kontraktionen der Gebärmutter (oft bemerkbar als eine Art „Ziehen“ im Bauch, wobei
+    dies in den meisten Fällen wieder nachlässt)
+
+    Fehlgeburt
+
+    Invasive Untersuchungen werden aufgrund der erhöhten Risiken in der Regel dann
+    durchgeführt, wenn insbesondere das Fehlgeburtsrisiko infolge des Eingriffs niedriger
+    ist als die statistisch zu erwartende Wahrscheinlichkeit des Vorliegens einer
+    Chromosomenbesonderheit oder einer Erbkrankheit.'' (Focus on term: Infektion)'
+  grammar: Passiv
+  matched_pattern: werden aufgrund der erhöhten Risiken in der Regel dann durchgeführt
+  medical_terms:
+  - Infektion
+  - Krankheit
+  - Untersuchung
+  sentence: 'Es kann während bzw. nach dem Eingriff zu folgenden Ereignissen kommen:
+
+
+    Fruchtwasserverlust
+
+    Blutungen in der Gebärmutter
+
+    Verletzungen der Gebärmutter
+
+    Verletzungen des Mutterkuchens
+
+    Infektionen
+
+    Verletzungen des ungeborenen Kindes durch die Nadel (insbesondere, wenn sich das
+    Kind viel und/oder unerwartet bewegt)
+
+    gehäufteres Auftreten von Fehlbildungen (erhöhtes Klumpfußrisiko)
+
+    Kontraktionen der Gebärmutter (oft bemerkbar als eine Art „Ziehen“ im Bauch, wobei
+    dies in den meisten Fällen wieder nachlässt)
+
+    Fehlgeburt
+
+    Invasive Untersuchungen werden aufgrund der erhöhten Risiken in der Regel dann
+    durchgeführt, wenn insbesondere das Fehlgeburtsrisiko infolge des Eingriffs niedriger
+    ist als die statistisch zu erwartende Wahrscheinlichkeit des Vorliegens einer
+    Chromosomenbesonderheit oder einer Erbkrankheit.'
+- exercise_suggestion: 'Convert to active voice: ''Auch das gegen diesen Vorgang und
+    seine Folgen am Kind (s. Rhesus-Inkompatibilität#Pathogenese) üblicherweise prophylaktisch
+    verabreichte Medikament („Anti-D-Prophylaxe“, etwa mittels RHOPHYLAC von CSL Behring
+    und RHESONATIV von Octapharma) wird so bezeichnet.'' (Focus on term: Medikament)'
+  grammar: Passiv
+  matched_pattern: wird so bezeichnet
+  medical_terms:
+  - Medikament
+  sentence: Auch das gegen diesen Vorgang und seine Folgen am Kind (s. Rhesus-Inkompatibilität#Pathogenese)
+    üblicherweise prophylaktisch verabreichte Medikament („Anti-D-Prophylaxe“, etwa
+    mittels RHOPHYLAC von CSL Behring und RHESONATIV von Octapharma) wird so bezeichnet.
+- exercise_suggestion: 'Convert to indicative mood: ''Er beklagt, dass Ärzte Kenntnisse
+    benutzen, die sie von Dritten über den Patienten erlangt hätten, um ihn mit vermeintlicher
+    ärztlicher Erkenntnis zu verblüffen.'' (Focus on term: Patient)'
+  grammar: Konjunktiv_I
+  matched_pattern: hätten
+  medical_terms:
+  - Patient
+  sentence: Er beklagt, dass Ärzte Kenntnisse benutzen, die sie von Dritten über den
+    Patienten erlangt hätten, um ihn mit vermeintlicher ärztlicher Erkenntnis zu verblüffen.
+- exercise_suggestion: 'Convert to active voice: ''Damit wird erstmals die Anamnese
+    mit der Diagnose verknüpft.'' (Focus on term: Anamnese)'
+  grammar: Passiv
+  matched_pattern: wird erstmals die Anamnese mit der Diagnose verknüpft
+  medical_terms:
+  - Anamnese
+  - Diagnose
+  sentence: Damit wird erstmals die Anamnese mit der Diagnose verknüpft.
+- exercise_suggestion: 'Convert to active voice: ''Die Anamnese wird im ausgehenden
+    Barock der Pathologie zugeordnet.'' (Focus on term: Anamnese)'
+  grammar: Passiv
+  matched_pattern: wird im ausgehenden Barock der Pathologie zugeordnet
+  medical_terms:
+  - Anamnese
+  sentence: Die Anamnese wird im ausgehenden Barock der Pathologie zugeordnet.
+- exercise_suggestion: 'Convert to active voice: ''dem Befund wird Priorität für die
+    Diagnose zugewiesen.'' (Focus on term: Diagnose)'
+  grammar: Passiv
+  matched_pattern: wird Priorität für die Diagnose zugewiesen
+  medical_terms:
+  - Diagnose
+  sentence: dem Befund wird Priorität für die Diagnose zugewiesen.
+- exercise_suggestion: 'Convert to active voice: ''Es wird nach aktuellen und vergangenen
+    körperlichen Beschwerden gefragt, nach bisherigen Behandlungen und nach eingenommenen
+    Medikamenten.'' (Focus on term: Behandlung)'
+  grammar: Passiv
+  matched_pattern: wird nach aktuellen und vergangenen körperlichen Beschwerden gefragt
+  medical_terms:
+  - Behandlung
+  - Medikament
+  sentence: Es wird nach aktuellen und vergangenen körperlichen Beschwerden gefragt,
+    nach bisherigen Behandlungen und nach eingenommenen Medikamenten.
+- exercise_suggestion: 'Convert to active voice: ''Gegen den Gebrauch des Begriffs
+    „Fremdanamnese“ ist eingewendet worden, dass die Auskunft gebenden Angehörigen
+    nicht „fremd“ sind, und ihr Bericht ebenfalls „subjektiv gefärbt“ sein kann;''
+    (Focus on term: Anamnese)'
+  grammar: Passiv
+  matched_pattern: ist eingewendet
+  medical_terms:
+  - Anamnese
+  sentence: Gegen den Gebrauch des Begriffs „Fremdanamnese“ ist eingewendet worden,
+    dass die Auskunft gebenden Angehörigen nicht „fremd“ sind, und ihr Bericht ebenfalls
+    „subjektiv gefärbt“ sein kann;
+- exercise_suggestion: 'Convert to indicative mood: ''er sei nicht grundsätzlich „objektiv“.(b)
+
+
+    Familien- und Sozialanamnese
+
+    Gefragt wird unter anderem nach dem Familienstatus, dem Beruf sowie nach der Religionszugehörigkeit.''
+    (Focus on term: Anamnese)'
+  grammar: Konjunktiv_I
+  matched_pattern: sei
+  medical_terms:
+  - Anamnese
+  sentence: 'er sei nicht grundsätzlich „objektiv“.(b)
+
+
+    Familien- und Sozialanamnese
+
+    Gefragt wird unter anderem nach dem Familienstatus, dem Beruf sowie nach der Religionszugehörigkeit.'
+- exercise_suggestion: 'Convert to active voice: ''Arbeitsmedizinische Vorsorgeuntersuchungen
+    bei einer Belastung durch Gefahrstoffe werden durch die Gefahrstoffverordnung
+    gefordert.'' (Focus on term: Untersuchung)'
+  grammar: Passiv
+  matched_pattern: werden durch die Gefahrstoffverordnung gefordert
+  medical_terms:
+  - Untersuchung
+  sentence: Arbeitsmedizinische Vorsorgeuntersuchungen bei einer Belastung durch Gefahrstoffe
+    werden durch die Gefahrstoffverordnung gefordert.
+- exercise_suggestion: 'Convert to active voice: ''Arbeitsmedizinische Vorsorgeuntersuchungen
+    für medizinische Berufe sind in der Unfallverhütungsvorschrift der Berufsgenossenschaft
+    für Gesundheits- und Wohlfahrtspflege festgelegt.'' (Focus on term: Pflege)'
+  grammar: Passiv
+  matched_pattern: sind in der Unfallverhütungsvorschrift der Berufsgenossenschaft
+    für Gesundheits- und Wohlfahrtspflege festgelegt
+  medical_terms:
+  - Pflege
+  - Untersuchung
+  sentence: Arbeitsmedizinische Vorsorgeuntersuchungen für medizinische Berufe sind
+    in der Unfallverhütungsvorschrift der Berufsgenossenschaft für Gesundheits- und
+    Wohlfahrtspflege festgelegt.
+- exercise_suggestion: 'Convert to active voice: ''Die Träger der gesetzlichen Unfallversicherung,
+    insbesondere die gewerblichen Berufsgenossenschaften (BGen), haben im Lauf der
+    Jahre eine Reihe von Empfehlungen herausgegeben, die Mindeststandards für spezielle
+    Untersuchungen formulieren und den jeweils aktuellen Stand der Wissenschaft wiedergeben
+    sollen.'' (Focus on term: Untersuchung)'
+  grammar: Passiv
+  matched_pattern: haben im Lauf der Jahre eine Reihe von Empfehlungen herausgegeben
+  medical_terms:
+  - Untersuchung
+  sentence: Die Träger der gesetzlichen Unfallversicherung, insbesondere die gewerblichen
+    Berufsgenossenschaften (BGen), haben im Lauf der Jahre eine Reihe von Empfehlungen
+    herausgegeben, die Mindeststandards für spezielle Untersuchungen formulieren und
+    den jeweils aktuellen Stand der Wissenschaft wiedergeben sollen.
+- exercise_suggestion: 'Convert to active voice: ''Andere, zusätzliche Untersuchungen
+    wie die „H-Grundsätze“ werden weiterhin zusätzlich von der Landwirtschafts-BG
+    veröffentlicht.'' (Focus on term: Untersuchung)'
+  grammar: Passiv
+  matched_pattern: werden weiterhin zusätzlich von der Landwirtschafts-BG veröffentlicht
+  medical_terms:
+  - Untersuchung
+  sentence: Andere, zusätzliche Untersuchungen wie die „H-Grundsätze“ werden weiterhin
+    zusätzlich von der Landwirtschafts-BG veröffentlicht.

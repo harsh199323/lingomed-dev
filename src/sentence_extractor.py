@@ -28,7 +28,7 @@ class SentenceExtractor:
                 pattern_list.append(token)
             self.matcher.add(grammar_type, [pattern_list])
 
-    def extract_sentences(self, corpus_path, output_path, max_sentences=200):
+    def extract_sentences(self, corpus_path, output_path, max_sentences=150):
         if not os.path.exists(corpus_path):
             raise FileNotFoundError(f"Corpus file not found at {corpus_path}")
 
@@ -41,45 +41,50 @@ class SentenceExtractor:
         
         # Process with SpaCy
         doc = self.nlp(text)
+        
+        # Process with SpaCy in batches
+        batch_size = 1000
         results = []
         
         print("Analyzing sentences for medical terms and grammar patterns...")
-        for sent in tqdm(list(doc.sents), desc="Processing sentences"):
-            # Debug: Print sentence analysis
-            print(f"\nAnalyzing: {sent.text}")
+        sentences = list(doc.sents)
+        
+        for i in tqdm(range(0, len(sentences), batch_size), desc="Processing batches"):
+            batch = sentences[i:i + batch_size]
             
-            # Medical term check
-            medical_found = [term for term in self.medical_terms if term.lower() in sent.text.lower()]
-            if medical_found:
-                print(f"Found medical terms: {medical_found}")
-            
-                # Grammar check with debug info
-                sent_doc = self.nlp(sent.text)
-                print("\nToken analysis:")
-                for token in sent_doc:
-                    print(f"{token.text:<20} {token.tag_:<10} {token.dep_:<10} {token.morph}")
+            for sent in batch:
+                # Medical term check
+                medical_found = [term for term in self.medical_terms if term.lower() in sent.text.lower()]
+                if not medical_found:
+                    continue
                 
+                # Grammar check
+                sent_doc = self.nlp(sent.text)
                 matches = self.matcher(sent_doc)
+                
                 if matches:
-                    for match_id, start, end in matches:
-                        grammar_type = self.nlp.vocab.strings[match_id]
-                        pattern_tokens = [sent_doc[i].text for i in range(start, end)]
-                        print(f"\nMatched pattern {grammar_type}: {' '.join(pattern_tokens)}")
-                        
-                        result = {
-                            "sentence": sent.text,
-                            "medical_terms": medical_found,
-                            "grammar": grammar_type,
-                            "matched_pattern": " ".join(pattern_tokens),
-                            "exercise_suggestion": self._generate_exercise_suggestion(sent.text, medical_found[0], grammar_type)
-                        }
-                        results.append(result)
-                        break
-                else:
-                    print("No grammar patterns matched")
+                    match_id, start, end = matches[0]
+                    grammar_type = self.nlp.vocab.strings[match_id]
+                    pattern_tokens = [sent_doc[i].text for i in range(start, end)]
                     
-                if len(results) >= max_sentences:
-                    break
+                    result = {
+                        "sentence": sent.text.strip(),
+                        "medical_terms": medical_found,
+                        "grammar": grammar_type,
+                        "matched_pattern": " ".join(pattern_tokens),
+                        "exercise_suggestion": self._generate_exercise_suggestion(
+                            sent.text.strip(), 
+                            medical_found[0], 
+                            grammar_type
+                        )
+                    }
+                    results.append(result)
+                    
+                    if len(results) >= max_sentences:
+                        break
+            
+            if len(results) >= max_sentences:
+                break
         
         # Save results
         with open(output_path, "w", encoding="utf-8") as f:
