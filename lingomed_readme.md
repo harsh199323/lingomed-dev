@@ -191,10 +191,6 @@ The application includes comprehensive error handling and logging:
 5. Run the test suite
 6. Submit a pull request
 
-## License
-
-[Add your license information here]
-
 ## Troubleshooting
 
 ### Common Issues
@@ -217,7 +213,3 @@ The application includes comprehensive error handling and logging:
 - Web interface for interactive exercise creation
 - Machine learning-based difficulty assessment
 - Export to various formats (JSON, CSV, etc.)
-
-## Contact
-
-[Add your contact information here]
